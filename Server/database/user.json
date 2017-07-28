@@ -1,0 +1,35 @@
+{"users" : [{
+	            "name" : "wangjiasong",
+	            "age" : 20,
+	            "sex" : "male",
+	            "qq" : "2085583493",
+	            "tel" : "15678340980",
+	            "password" : "1234567",
+	            "postingsSend" : ["post1", "post2", "post3", "post11", "post12"],
+	            "postingsCollect" : ["post4", "post7", "post13"],
+	            "postingsComment" : ["post4", "post7", "post11", "post6"],
+	            "postingsBrowsed" : ["post1", "post2", "post3", "post4", "post6", "post7", "post11", "post12", "post13", "post14"]
+            },{
+            	"name" : "lixiang",
+	            "age" : 20,
+	            "sex" : "male",
+	            "qq" : "941111200",
+	            "tel" : "15145771390",
+	            "password" : "1234567",
+	            "postingsSend" : ["post4", "post5", "post6", "post13", "post14"],
+	            "postingsCollect" : ["post1", "post7", "post15"],
+	            "postingsComment" : ["post7", "post15", "post6", "post3"],
+	            "postingsBrowsed" : ["post1", "post3", "post4", "post5", "post6", "post7", "post13", "post14", "post15", "post2"]
+            },{
+            	"name" : "tiandongbao",
+	            "age" : 20,
+	            "sex" : "male",
+	            "qq" : "625892124",
+	            "tel" : "15156561280",
+	            "password" : "1234567",
+	            "postingsSend" : ["post7", "post8", "post9", "post10", "post15"],
+	            "postingsCollect" : ["post1", "post2", "post4", "post14"],
+	            "postingsComment" : ["post2", "post4", "post10", "post7"],
+	            "postingsBrowsed" : ["post1", "post2", "post4", "post7", "post8", "post9", "post10", "post14", "post15", "post6", "post5"]
+            }]
+}
